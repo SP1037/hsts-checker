@@ -35,7 +35,7 @@ if "//" in entered_site:
     entered_site=str(input("Enter Url : ")).split("//")
 elif "/" in entered_site:
     entered_site=entered_site[1].replace("/","")
-    
+print()    
 k=check_HSTS(entered_site)
 l=req=requests.get("https://"+entered_site)
 l_0=req.status_code
