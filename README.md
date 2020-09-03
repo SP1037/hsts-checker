@@ -7,7 +7,7 @@
        ---         ---         ---         ---   ---        
 ```
 
-This is Python Script for checking HSTS Header using requests module.
+This is simple python script for checking HSTS Header using requests module.
 - - - -
 ## How to use ?
 You need python 3.5> envirnment to run the script.
