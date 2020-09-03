@@ -11,7 +11,7 @@ def banner():
     print()
     print("                                                  ~By SP1037")
     print("Note : Program is not fully optimized.")
-    print("Enter as directed otherwise program will halted automatically.")
+    print("Enter inuts as directed otherwise program will halted automatically.")
     print()
 
 
